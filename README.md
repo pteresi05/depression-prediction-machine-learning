@@ -64,7 +64,7 @@ with sklearn-Pipeline.
 * INTERACTSelector -- sklearn transformer wrapper
 
 ## **Dataset**
-Tech Use, Stress & Wellness Dataset -- sourced from [kaggle](https://www.kaggle.com/datasets/nagpalprabhavalkar/tech-use-and-stress-wellness). 
+Tech Use, Stress & Wellness Dataset -- sourced from [Kaggle](https://www.kaggle.com/datasets/nagpalprabhavalkar/tech-use-and-stress-wellness). 
 
 * 5,000 samples
 * Behavioral and lifestyle features (screen time, stress, sleep, diet, etc.)
