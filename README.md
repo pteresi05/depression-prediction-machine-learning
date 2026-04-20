@@ -5,6 +5,11 @@ across three feature selection techniques, with XAI for clinical interpretabilit
 
 ## **Overview** 
 
+This project seeks to determine if behavioral and lifestyle data can be used to effectively predict depression severity scores. The additional focus of this
+project is to investigate different methods of feature selection -- specifically, the **INTERACT** algorithm is implemented from scratch and is compared against
+two standard feature selection strategies -- SelectKBest with Mutual Information (MI) and Recursive Feature Elimination (RFE). 
+
+All of the models are evaluated based on their average RMSE and explained variance using 5-fold cross-validation. 
 
 
 ### **Models**
